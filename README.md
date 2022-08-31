@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Arulmurugan1
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Development Courses
+- 🌱 I’m currently learning Full Stack development Courses
 - 💞️ I’m looking to collaborate on Software Engineering and development
 - 📫 How to reach me arulmurugan806@gmail.com
 
