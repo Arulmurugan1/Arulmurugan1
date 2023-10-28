@@ -1,6 +1,6 @@
  <h1 align="center">Hi 👋, I'm Arulmurugan</h1>
 <h3 align="center">A Software Engineer</h3>
-<img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/1MSVKRopegDjYONwdF/200w.gif?cid=82a1493byyp9q9gm6wdo54wbjz5d18f1uzqxwubk4rfk8vrx&rid=200w.gif&ct=g">
+<img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/2IudUHdI075HL02Pkk/200.webp?cid=ecf05e47a5mbsx5rjqmw81fcfxlj7ghuvy984xr2fnjjd16l&ep=v1_gifs_search&rid=200.webp&ct=g">
 
 - 📫 How to reach me **arulmurugansk7@gmail.com**
 
